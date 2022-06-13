@@ -41,6 +41,6 @@
 
 ## 📝 License
 
-Copyright © 2019 [Ravella Abhinav](https://github.com/ravellaabhinav).<br />
+Copyright © 2022 [Ravella Abhinav](https://github.com/ravellaabhinav).<br />
 This project is [GNU](https://github.com/ravellaabhinav/TRAWELL/blob/add-license-1/LICENSE) licensed.
 ## :man_astronaut: ***Work in progress <img src="https://img.icons8.com/office/50/000000/spinner-frame-1.png"/>*** 
