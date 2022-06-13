@@ -33,4 +33,14 @@
 #### :point_down: Head to the following video to get clarified.:star2:
 
 ## <img src="https://img.icons8.com/fluency/48/000000/youtube-play.png"/> [Live Demo of Project Working](https://youtu.be/cL7ZSGCFMm0)
+
+## Code Contributors
+- Shanthan - Testing
+- Likhitha - Development
+- Koushik - DevOps
+
+## 📝 License
+
+Copyright © 2019 [Ravella Abhinav](https://github.com/ravellaabhinav).<br />
+This project is [GNU](https://github.com/ravellaabhinav/TRAWELL/blob/add-license-1/LICENSE) licensed.
 ## :man_astronaut: ***Work in progress <img src="https://img.icons8.com/office/50/000000/spinner-frame-1.png"/>*** 
